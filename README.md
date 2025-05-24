@@ -82,7 +82,29 @@ Java, Eclipse, Scene Builder, MySQL, Figma, ClickUp
 ### 2024-1 — DataFlowServer  
 [Repositório do Projeto](https://github.com/iNineBD/DataFlow-3Sem2024.git)
 
-Sistema web desenvolvido para a empresa Dom Rock, com o objetivo de automatizar o tratamento de dados de arquivos CSV.  
+O projeto Avaliação 360 foi desenvolvido em parceria com um professor da FATEC, com o objetivo de facilitar o processo de avaliação entre os alunos de forma estruturada e imparcial. A proposta consistia em aplicar a metodologia de avaliação 360º, permitindo que os próprios integrantes dos grupos se avaliassem ao final de cada entrega, com base em cinco competências previamente definidas.
+O sistema oferecia funcionalidades como:
+*	Autoavaliação e avaliação em grupo;
+*	Cadastro e gerenciamento de turmas e usuários;
+*	Criação, edição e exclusão de sprints;
+* Controle de acesso com login e cadastro de usuários;
+*	Promoção de integrantes a administradores.
+
+A aplicação trouxe mais organização e transparência para o processo avaliativo, servindo como uma ferramenta de apoio à gestão acadêmica nas disciplinas com trabalhos em grupo.
+
+As imagens a seguis mostram como o sistema funcionava.
+
+Auto avaliação
+
+![Auto_Avaliacao](https://github.com/BeatrizBonatto/Portifolio-TG/blob/main/Imagens/2023-01/Auto_Avaliacao.png)
+
+Avaliação em Grupo
+
+![Auto_Avaliacao](https://github.com/BeatrizBonatto/Portifolio-TG/blob/main/Imagens/2023-01/Avaliacao-Em-Grupo.png)
+
+Além das avaliações o professor poderia ter o controle das turmas, tendo as seguintes opções: [colocar imagem] (https://github.com/iNineBD/Aval360-1Sem2023/wiki/Sprint-2-iNine)
+
+Neste sistema havia também Login e Cadastro de usuários, onde era possivel criar, editar, excluir e promover integrantes á administrador, além de cadastro, edição, visualização, exclusão de sprints das turmas onde a prova seria aplicada.
 
 **Funcionalidades**:
 - Upload e organização de dados em três zonas: Pouso, Bronze, Prata  
