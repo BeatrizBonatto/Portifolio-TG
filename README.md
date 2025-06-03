@@ -106,58 +106,69 @@ Java, Eclipse, Scene Builder, MySQL, Figma, ClickUp
 
 ---
 
-### 2024-1 — DataFlowServer  
+### 2024-1 — DataFlowServer
+
 [Repositório do Projeto](https://github.com/iNineBD/DataFlow-3Sem2024.git)
 
 O projeto DataFlowServer foi desenvolvido em parceria com a empresa Dom Rock, com o objetivo de otimizar o processo de preparação e tratamento de dados inseridos no sistema por meio de arquivos CSV. Até então, esse processo era realizado manualmente pelos colaboradores da empresa.
+
 A solução consistiu na criação de uma interface web que permitia:
-- Upload e tratamento dos arquivos CSV;
-- Separação dos dados em diferentes zonas de processamento: Zona de Pouso, Zona Bronze e Zona Prata;
-- Cadastro de usuários com diferentes níveis de acesso, por meio de uma tela de administração exclusiva para o usuário Master;
-- Tela de primeiro acesso com autenticação por token;
-- Histórico de ações por usuário (log).
+
+* Upload e tratamento dos arquivos CSV;
+* Separação dos dados em diferentes zonas de processamento: Zona de Pouso, Zona Bronze e Zona Prata;
+* Cadastro de usuários com diferentes níveis de acesso, por meio de uma tela de administração exclusiva para o usuário Master;
+* Tela de primeiro acesso com autenticação por token;
+* Histórico de ações por usuário (log).
+
 O sistema contribuiu para a automatização de processos, aumento da rastreabilidade e padronização das etapas de tratamento de dados, melhorando significativamente a eficiência operacional da empresa.
 
-<details>
-  <summary> Funcionalidades </summary> 
-  
-- Upload e organização de dados em três zonas: Pouso, Bronze, Prata  
-- Cadastro de usuários com diferentes níveis de acesso  
-- Tela de primeiro acesso com autenticação por token  
-- Log de atividades por usuário
-  
-</details>
+#### Funcionalidades da Aplicação
 
-<details>
-  <summary><strong> Tecnologias Utilizadas  </strong></summary>  
-Java, Spring, IntelliJ, HTML5, Vue.js, JavaScript, CSS3, Visual Studio Code, MySQL, Figma, ClickUp
-</details>
+Ao entrar na aplicação, o usuário pode realizar os seguintes processos:
 
-<details>
-  <summary><strong> Contribuições Pessoais </strong></summary> 
-  
-- Protótipo de tela de cadastro no Figma  
-- Desenvolvimento da tela com HTML, Vue e CSS
-  - Tela de Cadastro do Master para descobrir essa relação que foi usada o Figma, para prototipação, e para criação da tela HTML com alguns componentes Vue, com CSS para estilização. A tela é para o usuário Master cadastrar os usuários é composto por alguns campos, sendo eles:
-    - E-mail: que será usado para coleta de um token de autenticação para realizar o primeiro acesso do usuário;
-    - Nível de acesso do usuário: para delimitar a quais etapas o mesmo terá acesso para visualizar e editar;
-    - CNPJ da organização: para identificar qual organização o usuário pertence, podendo ser da prórpia Dom Rock, como de um de seus parceiros para realizar a validação das informações;
-    - Razão Social: nome ou apelido da empresa a qual o usuário pertence.
-- Implementação de autenticação por token e regras de acesso;
-- Registro de logs por usuário;
+**Zona de Pouso:** Upload inicial dos arquivos CSV, armazenando-os para posterior validação.
 
-</details>
+**Zona Bronze:** Dados brutos tratados e estruturados com validações iniciais.
 
-<details>
-  <summary><strong> **Hard Skills**</strong></summary>
-  
-- Java: autonomia total
-- Vue.js: autonomia total  
-- CSS: autonomia total  
-- Spring: com apoio técnico
-  
-</details>
----
+**Zona Prata:** Dados prontos para uso em dashboards e análises, após tratamento e validação completa.
+
+#### Tecnologias Utilizadas
+
+Java, Spring, IntelliJ, HTML5, Vue.js, JavaScript, CSS3, Visual Studio Code, MySQL, Figma, ClickUp, StackOverflow
+
+#### Contribuições Pessoais
+
+* Protótipo da tela de cadastro de usuários no Figma;
+
+* Desenvolvimento da tela de cadastro do Master utilizando HTML, componentes Vue.js e estilização com CSS:
+
+  * E-mail: utilizado para envio do token de autenticação;
+  * Nível de acesso: define o que o usuário pode visualizar/editar;
+  * CNPJ: identificação da organização do usuário;
+  * Razão Social: nome da empresa associada ao usuário.
+
+* Desenvolvimento da tela de primeiro acesso do usuário:
+
+  * Nome, e-mail (já pré-cadastrado pelo Master);
+  * Senha e confirmação de senha (com criptografia);
+  * Token recebido por e-mail para validação e confirmação de identidade.
+
+* Implementação de autenticação por token;
+
+* Registro e visualização de logs por usuário.
+
+#### Log de Arquivo / Logar por Usuário
+
+Funcionalidades que permitem o rastreio completo de ações realizadas pelos usuários dentro do sistema, melhorando a auditoria e o controle de mudanças.
+
+#### Hard Skills Desenvolvidas
+
+* Java — uso com autonomia total;
+* Vue.js — uso com autonomia total;
+* CSS — uso com autonomia total;
+* Spring — uso com apoio técnico.
+
+---------
 
 ### 2024-2 — GeoTrack  
 [Repositório do Projeto](https://github.com/iNineBD/GeoTrack-4Sem2024.git)
