@@ -56,7 +56,7 @@ Além das avaliações o professor poderia ter o controle das turmas, tendo as s
 Neste sistema havia também Login e Cadastro de usuários, onde era possivel criar, editar, excluir e promover integrantes á administrador, além de cadastro, edição, visualização, exclusão de sprints das turmas onde a prova seria aplicada.
 
 <details>
-  <summary> Funcionalidades: </summary>  
+  <summary> Funcionalidades </summary>  
 - Autoavaliação e avaliação entre colegas  
 - Cadastro e gerenciamento de turmas  
 - Criação e edição de sprints  
@@ -64,12 +64,12 @@ Neste sistema havia também Login e Cadastro de usuários, onde era possivel cri
 </details>
 
 <details> 
-  <summary><strong> Tecnologias Utilizadas:  </strong></summary>  
+  <summary><strong> Tecnologias Utilizadas  </strong></summary>  
 Python, Git, Visual Studio Code, Canva, Microsoft Excel, Monday, Microsoft Teams
 </details>
 
 <details>
-  <summary><strong> Contribuições Pessoais: </strong></summary>  
+  <summary><strong> Contribuições Pessoais </strong></summary>  
 - Scrum Master: controle de burndown, tarefas e horas  
 - Criação do backlog e fluxograma do projeto  
 - Funcionalidade de visualização e edição de times  
@@ -84,21 +84,24 @@ Python, Git, Visual Studio Code, Canva, Microsoft Excel, Monday, Microsoft Teams
 Sistema para auxiliar professores na gestão de Trabalhos de Graduação (TCC), com foco no acompanhamento de entregas, prazos e status dos projetos.  
 
 <details>
-  <summary> Funcionalidades: </summary>  
+  <summary> Funcionalidades </summary>  
 - Cadastro de alunos, orientadores e professores  
 - Filtros por e-mail  
 - Relatórios gerenciais de entregas e elegibilidade para defesa
 </details>
 
 <details> 
-  <summary><strong> Tecnologias Utilizadas:  </strong></summary> 
+  <summary><strong> Tecnologias Utilizadas </strong></summary> 
 Java, Eclipse, Scene Builder, MySQL, Figma, ClickUp
 </details>
 
 <details>
-  <summary><strong> Contribuições Pessoais: </strong></summary>  
-- Product Owner: gerenciamento de backlog e comunicação com o cliente  
+  <summary><strong> Contribuições Pessoais </strong></summary>  
+  
+- Product Owner: gerenciamento de backlog e comunicação com o cliente
+  
 - Desenvolvimento de filtros e relatórios personalizados  
+  
 </details>
 
 ---
@@ -116,32 +119,44 @@ A solução consistiu na criação de uma interface web que permitia:
 O sistema contribuiu para a automatização de processos, aumento da rastreabilidade e padronização das etapas de tratamento de dados, melhorando significativamente a eficiência operacional da empresa.
 
 <details>
-  <summary> Funcionalidades: </summary> 
+  <summary> Funcionalidades </summary> 
+  
 - Upload e organização de dados em três zonas: Pouso, Bronze, Prata  
 - Cadastro de usuários com diferentes níveis de acesso  
 - Tela de primeiro acesso com autenticação por token  
 - Log de atividades por usuário
+  
 </details>
 
 <details>
-  <summary><strong> Tecnologias Utilizadas:  </strong></summary>  
+  <summary><strong> Tecnologias Utilizadas  </strong></summary>  
 Java, Spring, IntelliJ, HTML5, Vue.js, JavaScript, CSS3, Visual Studio Code, MySQL, Figma, ClickUp
 </details>
 
 <details>
-  <summary><strong> Contribuições Pessoais: </strong></summary> 
+  <summary><strong> Contribuições Pessoais </strong></summary> 
+  
 - Protótipo de tela de cadastro no Figma  
-- Desenvolvimento da tela com HTML, Vue e CSS  
-- Implementação de autenticação por token e regras de acesso  
-- Registro de logs por usuário
+- Desenvolvimento da tela com HTML, Vue e CSS
+  - Tela de Cadastro do Master para descobrir essa relação que foi usada o Figma, para prototipação, e para criação da tela HTML com alguns componentes Vue, com CSS para estilização. A tela é para o usuário Master cadastrar os usuários é composto por alguns campos, sendo eles:
+    - E-mail: que será usado para coleta de um token de autenticação para realizar o primeiro acesso do usuário;
+    - Nível de acesso do usuário: para delimitar a quais etapas o mesmo terá acesso para visualizar e editar;
+    - CNPJ da organização: para identificar qual organização o usuário pertence, podendo ser da prórpia Dom Rock, como de um de seus parceiros para realizar a validação das informações;
+    - Razão Social: nome ou apelido da empresa a qual o usuário pertence.
+- Implementação de autenticação por token e regras de acesso;
+- Registro de logs por usuário;
+
 </details>
 
-**Hard Skills**:
-- Java: autonomia total  
+<details>
+  <summary><strong> **Hard Skills**</strong></summary>
+  
+- Java: autonomia total
 - Vue.js: autonomia total  
 - CSS: autonomia total  
 - Spring: com apoio técnico
-
+  
+</details>
 ---
 
 ### 2024-2 — GeoTrack  
