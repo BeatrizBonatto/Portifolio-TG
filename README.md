@@ -8,9 +8,10 @@
   <a href="#observações-finais">Observações</a>
 </p>
 
+---
 
 <span id="introdução">
-  
+
 ## Introdução
 
 Sou Beatriz Akemi Yamaguti Bonatto, uma profissional em constante desenvolvimento, com formação técnica em Mecânica pelo IFSP, graduação em Gestão da Produção Industrial pela FATEC e atualmente cursando Banco de Dados na mesma instituição. Minha trajetória profissional reflete uma evolução diversificada, iniciando como Estagiária em Gestão de Produção na Altamar Sistemas Aquáticos e em seguida como Técnica Mecânica na Ambev. Atualmente, sou Assistente de Dados na Click Alert, onde iniciei como Estagiária em Análise de Dados. Essa experiência diversificada consolidou minhas habilidades técnicas em análise de dados e gestão de projetos, complementadas por uma comunicação eficaz e uma abordagem estratégica na resolução de problemas.
@@ -18,10 +19,10 @@ Sou Beatriz Akemi Yamaguti Bonatto, uma profissional em constante desenvolviment
 ---
 
 <span id="contatos">
-  
+
 ## Contatos
 
-<h4 align="left">
+<p align="left">
   <a href="https://github.com/BeatrizBonatto" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -31,21 +32,24 @@ Sou Beatriz Akemi Yamaguti Bonatto, uma profissional em constante desenvolviment
   <a href="mailto:beatriz.bonatto@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</h4>
+</p>
 
 ---
+
 <span id="principais-conhecimentos">
-  
+
 ## Principais Conhecimentos
 
--   **Análise de Dados**: Experiência em interpretação de dados para suporte à tomada de decisões, utilizando ferramentas como Power BI e Microsoft Excel.
--   **Power BI**: Criação de dashboards interativos e relatórios visuais com foco em KPIs.
--   **Microsoft Excel**: Domínio avançado de fórmulas, tabelas dinâmicas e macros.
--   **MySQL**: Modelagem de dados, queries complexas e manutenção de banco de dados relacional.
--   **Gestão de Projetos**: Planejamento, backlog, controle de tarefas e cronogramas com metodologias ágeis.
--   **Comunicação**: Apresentação de resultados e relatórios para diversos públicos.
+- **Análise de Dados**: Experiência em interpretação de dados para suporte à tomada de decisões, utilizando ferramentas como Power BI e Microsoft Excel.  
+- **Power BI**: Criação de dashboards interativos e relatórios visuais com foco em KPIs.  
+- **Microsoft Excel**: Domínio avançado de fórmulas, tabelas dinâmicas e macros.  
+- **MySQL**: Modelagem de dados, queries complexas e manutenção de banco de dados relacional.  
+- **Gestão de Projetos**: Planejamento, backlog, controle de tarefas e cronogramas com metodologias ágeis.  
+- **Comunicação**: Apresentação de resultados e relatórios para diversos públicos.  
 
 ---
+
+<span id="projetos">
 
 ## Projetos
 
@@ -58,9 +62,10 @@ Sou Beatriz Akemi Yamaguti Bonatto, uma profissional em constante desenvolviment
   <a href="#6-semestre">6° Semestre</a>
 </p>
 
+---
 
 <span id="1-semestre">
-  
+
 ### 1° Semestre — Avaliação 360  
 [Repositório do Projeto](https://github.com/iNineBD/Aval360-1Sem2023)
 
@@ -68,140 +73,121 @@ Sou Beatriz Akemi Yamaguti Bonatto, uma profissional em constante desenvolviment
 O projeto "Avaliação 360" foi desenvolvido para otimizar e estruturar o processo de avaliação entre alunos de forma imparcial. A aplicação permitia a realização de autoavaliações e avaliações entre pares, o cadastro e gerenciamento de turmas e usuários, a criação e edição de sprints, e um sistema de controle de acesso com login e diferentes hierarquias de permissões.
 
 #### Contribuições Pessoais
-Minhas contribuições foram abrangentes, atuando como um pilar central na gestão e desenvolvimento do projeto:
-*   **Scrum Master:** Responsável pela facilitação da equipe, garantindo o controle do *burndown* do projeto, a gestão de tarefas e o registro das horas trabalhadas, promovendo a metodologia ágil e a eficiência.
-*   **Criação do Backlog e Fluxograma do Projeto:** Definição e priorização das funcionalidades, bem como o mapeamento do fluxo de trabalho, essenciais para o planejamento e execução.
-*   **Funcionalidade de Visualização e Edição de Times:** Desenvolvimento da interface e lógica para gerenciar a composição das equipes de trabalho.
-*   **Funcionalidade de Feedback de Avaliações:** Implementação do módulo que permite a visualização e gestão dos feedbacks recebidos nas avaliações.
+* **Scrum Master:** Facilitação da equipe, controle do *burndown*, gestão de tarefas e registro de horas.  
+* **Criação do Backlog e Fluxograma do Projeto:** Priorização de funcionalidades e mapeamento do fluxo de trabalho.  
+* **Funcionalidade de Visualização e Edição de Times:** Interface e lógica para gerenciar equipes.  
+* **Funcionalidade de Feedback de Avaliações:** Módulo para visualização e gestão de feedbacks recebidos.
 
 #### Tecnologias Utilizadas
-*   **Linguagens/Frameworks:** Python
-*   **Ferramentas:** Git, Visual Studio Code, Canva, Microsoft Excel, Monday, Microsoft Teams
-
-#### Habilidades Desenvolvidas
-*   **Hard Skills:**
-    *   **Programação Python:** Desenvolvimento de funcionalidades, aplicação de lógica de programação.
-    *   **Git:** Controle de versão e colaboração em equipe.
-    *   **Gestão de Projetos Ágeis:** Aplicação de conceitos de Scrum (backlog, burndown, gestão de tarefas).
-    *   **Modelagem de Processos:** Criação de fluxogramas.
-    *   **Análise de Dados Básica:** Uso de Excel para acompanhamento.
-*   **Soft Skills:**
-    *   **Liderança e Coordenação:** Atuação como Scrum Master, guiando a equipe.
-    *   **Comunicação Eficaz:** Articulação de tarefas, prazos e feedbacks.
-    *   **Resolução de Problemas:** Identificação e solução de desafios no processo de desenvolvimento e gestão.
-    *   **Organização e Planejamento:** Estruturação do backlog e controle de atividades.
-    *   **Trabalho em Equipe:** Colaboração direta com os membros da equipe.
-
-#### Aprendizados e Desafios
-*   **Aprendizados:** Entendimento prático do ciclo de vida de um projeto de software com metodologia ágil. A importância de uma comunicação clara e da documentação para o sucesso do projeto. A gestão do tempo e dos recursos como Scrum Master foi crucial.
-*   **Desafios:** Manter a equipe engajada e produtiva, garantindo que as tarefas fossem cumpridas dentro do prazo e com qualidade, especialmente na aplicação de uma metodologia ainda nova para o grupo.
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monday-FC5C29?style=for-the-badge&logo=monday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+</p>
 
 ---
+
 <span id="2-semestre">
-  
+
 ### 2° Semestre — Sistema Gerenciador de TCC (SGTG)  
 [Repositório do Projeto](https://github.com/iNineBD/SGTG-2Sem2023)
 
 #### Descrição do Projeto
-O Sistema Gerenciador de TCC (SGTG) foi desenvolvido para auxiliar professores e coordenadores na gestão de Trabalhos de Graduação. A aplicação permitia o cadastro de alunos, orientadores e professores, oferecia filtros de pesquisa por e-mail, e gerava relatórios gerenciais sobre entregas e a elegibilidade dos alunos para defesa do TCC.
+O Sistema Gerenciador de TCC (SGTG) auxilia professores e coordenadores na gestão de Trabalhos de Graduação. Permite cadastro de alunos, professores, orientadores, filtros de pesquisa e geração de relatórios gerenciais.
 
 #### Contribuições Pessoais
-Minhas contribuições foram focadas na compreensão das necessidades do usuário e no desenvolvimento de funcionalidades críticas para a gestão acadêmica:
-*   **Product Owner (PO):** Responsável por gerenciar o *backlog* do produto e atuar como principal ponto de comunicação com o cliente, garantindo que as funcionalidades desenvolvidas estivessem alinhadas às expectativas e necessidades dos usuários finais.
-*   **Desenvolvimento de Filtros e Relatórios Personalizados:** Implementação das lógicas de filtragem para facilitar a busca e a organização das informações, além da criação de relatórios que forneciam *insights* cruciais sobre o progresso dos TCCs.
+* **Product Owner (PO):** Gerenciamento do backlog, comunicação com o cliente e alinhamento das funcionalidades.  
+* **Desenvolvimento de Filtros e Relatórios Personalizados:** Facilitação da busca e criação de relatórios com *insights* sobre TCCs.
 
 #### Tecnologias Utilizadas
-*   **Linguagens/Frameworks:** Java
-*   **Ferramentas:** Eclipse, Scene Builder, MySQL, Figma, ClickUp
-
-#### Habilidades Desenvolvidas
-*   **Hard Skills:**
-    *   **Programação Java e POO:** Desenvolvimento de lógica de negócios e estruturação do código.
-    *   **Modelagem e Manipulação de Dados (MySQL):** Criação de esquemas de banco de dados e execução de *queries* para recuperação e análise de informações.
-    *   **Design de Interface (Scene Builder, Figma):** Prototipagem e construção de interfaces gráficas.
-    *   **Geração de Relatórios:** Extração e apresentação de dados de forma significativa.
-*   **Soft Skills:**
-    *   **Comunicação com Cliente:** Tradução de requisitos de negócio em especificações técnicas.
-    *   **Gestão de Produto:** Priorização de funcionalidades e alinhamento com a visão do produto.
-    *   **Pensamento Analítico:** Desenvolvimento de filtros e relatórios que atendessem a necessidades específicas.
-    *   **Resolução de Problemas:** Abordagem de desafios na integração do banco de dados com a interface.
-
-#### Aprendizados e Desafios
-*   **Aprendizados:** Aprofundamento na aplicação de Programação Orientada a Objetos para desenvolver sistemas complexos. A importância da modelagem de dados para a eficiência e integridade de um sistema. A experiência como Product Owner foi fundamental para entender a perspectiva do usuário e priorizar o desenvolvimento.
-*   **Desafios:** Desenvolver um sistema que fosse robusto o suficiente para gerenciar múltiplos tipos de usuários e suas interações, além de garantir que os relatórios fossem precisos e de fácil interpretação para os professores.
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scene_Builder-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+</p>
 
 ---
 
 <span id="3-semestre">
 
-### 3° Semestre — DataFlowServer
-
+### 3° Semestre — DataFlowServer  
 [Repositório do Projeto](https://github.com/iNineBD/DataFlow-3Sem2024)
 
 #### Descrição do Projeto
-O projeto "DataFlowServer" foi concebido para otimizar o processo de preparação e tratamento de dados, permitindo a inserção de arquivos CSV no sistema. A solução consistiu em uma interface web robusta que facilitava o *upload* e tratamento desses arquivos, separando os dados em diferentes zonas de processamento (*Zona de Pouso*, *Zona Bronze* e *Zona Prata*). Além disso, contava com um sistema de cadastro de usuários com distintos níveis de acesso, uma tela de primeiro acesso com autenticação por *token*, e um histórico detalhado de ações por usuário.
+Interface web para upload e tratamento de arquivos CSV, com separação de dados em *Zona de Pouso*, *Zona Bronze* e *Zona Prata*, autenticação por token e histórico de ações por usuário.
 
 #### Contribuições Pessoais
-Minhas contribuições foram essenciais tanto na concepção quanto na implementação de componentes cruciais para a usabilidade e segurança do sistema:
-*   **Protótipo da Tela de Cadastro de Usuários no Figma:** Design e criação do protótipo visual para a tela de cadastro, garantindo uma experiência de usuário intuitiva.
-*   **Desenvolvimento da Tela de Cadastro do Master e Tela de Primeiro Acesso do Usuário:** Implementação do *frontend* e *backend* para essas funcionalidades críticas, permitindo o registro inicial de usuários com privilégios de administrador e o onboarding seguro de novos usuários.
-*   **Implementação de Autenticação por Token:** Desenvolvimento do mecanismo de segurança que permite a validação de usuários através de *tokens*, garantindo o controle de acesso e a segurança dos dados.
-*   **Registro e Visualização de Logs por Usuário:** Criação da funcionalidade de auditoria que registra todas as ações realizadas pelos usuários, fornecendo um histórico detalhado para rastreabilidade e segurança.
+* Protótipo da tela de cadastro de usuários no Figma.  
+* Desenvolvimento das telas de cadastro Master e primeiro acesso.  
+* Implementação de autenticação por token e logs detalhados.
 
 #### Tecnologias Utilizadas
-*   **Linguagens/Frameworks:** Java, Spring, HTML5, Vue.js, JavaScript, CSS3
-*   **Banco de Dados:** MySQL
-*   **Ferramentas:** IntelliJ, Visual Studio Code, Figma, ClickUp, StackOverflow
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+</p>
 
-#### Habilidades Desenvolvidas
-*   **Hard Skills:**
-    *   **Desenvolvimento Full-Stack:** Habilidade em construir tanto o *backend* (Java/Spring) quanto o *frontend* (Vue.js/HTML/CSS/JS) de uma aplicação web.
-    *   **APIs RESTful:** Criação de endpoints para manipulação de dados e autenticação.
-    *   **Segurança (Autenticação por Token):** Implementação de mecanismos de segurança para controle de acesso.
-    *   **Modelagem de Dados (MySQL):** Interação com banco de dados para armazenamento de usuários e logs.
-    *   **UI/UX Design:** Prototipagem e desenvolvimento de interfaces amigáveis.
-    *   **Processamento de Dados:** Compreensão e implementação da lógica para tratamento de arquivos CSV e separação em zonas.
-*   **Soft Skills:**
-    *   **Arquitetura de Sistemas:** Compreensão da estrutura e fluxo de dados em uma aplicação complexa.
-    *   **Pensamento Crítico:** Resolução de desafios de segurança e usabilidade.
-    *   **Colaboração e Autonomia:** Trabalho em equipe e busca de soluções (StackOverflow).
-    *   **Orientação ao Detalhe:** Garantir a precisão na implementação de funcionalidades de segurança e logging.
-
-#### Aprendizados e Desafios
-*   **Aprendizados:** Aprofundamento no desenvolvimento de aplicações web completas, do banco de dados à interface. Entendimento da importância de uma arquitetura de dados bem definida (zonas de processamento) e dos desafios de segurança em sistemas web. A implementação de autenticação por token foi um aprendizado chave.
-*   **Desafios:** Integrar diversas tecnologias (*frontend*, *backend*, banco de dados, segurança) de forma coesa. Lidar com a complexidade do tratamento de arquivos CSV e a validação de dados em diferentes etapas do fluxo.
-
----------
+---
 
 <span id="4-semestre">
 
 ### 4° Semestre — GeoTrack  
 [Repositório do Projeto](https://github.com/iNineBD/GeoTrack-4Sem2024Main)
 
-#### Resumo e Contribuições
-**A ser adicionado:** Beatriz, por favor, inclua aqui o resumo do projeto GeoTrack, seus objetivos, funcionalidades e suas contribuições específicas, detalhando as responsabilidades e o impacto de seu trabalho.
+**Resumo e contribuições a definir**
 
 #### Tecnologias Utilizadas
-**A definir:** Beatriz, liste aqui todas as tecnologias, ferramentas e linguagens de programação utilizadas neste projeto.
-
-#### Habilidades Desenvolvidas
-**A ser adicionado:** Com base no resumo e nas suas contribuições, detalhe as *hard skills* (e.g., manipulação de dados com Python, APIs de cloud, ETL) e *soft skills* (e.g., organização, pesquisa, autonomia) que foram desenvolvidas ou aprimoradas.
-
-#### Aprendizados e Desafios
-**A ser adicionado:** Descreva os principais aprendizados que você obteve com este projeto e os desafios significativos que foram superados, refletindo sobre como essas experiências contribuíram para sua evolução.
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
 <span id="5-semestre">
 
 ### 5° Semestre — Youtan Dash  
-[Repositório do Projeto](https://github.com/manolito-fatec/dashflow-2025-1.git)
+[Repositório do Projeto](https://github.com/manolito-fatec/dashflow-2025-1)
 
-**Resumo e contribuições a serem adicionados**
+#### Descrição do Projeto  
+O projeto "Youtan Dash" visa desenvolver uma plataforma integrada à ferramenta de gestão de projetos Taiga, com o intuito de gerar e visualizar indicadores relacionados ao andamento de projetos. A plataforma fornece um dashboard que permite a extração e análise de métricas importantes, como a quantidade de cards criados e finalizados em um período, tempo médio de execução de cards, distribuição de cards por status, entre outros.
 
-**Tecnologias Utilizadas**:  
-*A definir*
+#### Contribuições Pessoais  
+* **Desenvolvimento do Dashboard:** Criação da interface visual para exibição dos indicadores.  
+* **Integração com Taiga:** Implementação da API para coleta de dados da ferramenta de gestão de projetos.  
+* **Análise de Métricas:** Definição e cálculo das métricas a serem exibidas no dashboard.  
+* **Testes e Validação:** Realização de testes para garantir a precisão dos dados apresentados.
+
+#### Tecnologias Utilizadas
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Chart.js-F6A8B2?style=for-the-badge&logo=chart.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
@@ -210,10 +196,19 @@ Minhas contribuições foram essenciais tanto na concepção quanto na implement
 ### 6° Semestre — Pardal  
 [Repositório do Projeto](https://github.com/manolito-fatec/pardal-2025)
 
-**Resumo e contribuições a serem adicionados**
+#### Descrição do Projeto  
+O projeto "Pardal" tem como objetivo centralizar e otimizar um sistema de gerenciamento de tickets de suporte, garantindo maior organização, tempos de resposta mais rápidos e visibilidade em todos os níveis operacionais. Atualmente, o cliente utiliza ferramentas distintas para cada área, o que dificulta o acompanhamento e a gestão eficiente dos tickets.
 
-**Tecnologias Utilizadas**:  
-*A definir*
+#### Tecnologias Utilizadas
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
 
 ---
 
