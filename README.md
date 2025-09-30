@@ -7,7 +7,7 @@
   <a href="#projetos">Projetos</a> | 
   <a href="#observações-finais">Observações</a>
 </p>
-<div align="center"><hr width=70%></div>
+
 
 <span id="introdução">
   
