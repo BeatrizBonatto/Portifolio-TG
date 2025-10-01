@@ -42,7 +42,7 @@ Sou Beatriz Akemi Yamaguti Bonatto, uma profissional em constante desenvolviment
 
 - **Análise de Dados**: Experiência em interpretação de dados para suporte à tomada de decisões, utilizando ferramentas como Power BI e Microsoft Excel.  
 - **Power BI**: Criação de dashboards interativos e relatórios visuais com foco em KPIs.  
-- **Microsoft Excel**: Domínio avançado de fórmulas, tabelas dinâmicas e macros.  
+- **Microsoft Excel**: Domínio intermediário de fórmulas, tabelas dinâmicas e visuais.  
 - **MySQL**: Modelagem de dados, queries complexas e manutenção de banco de dados relacional.  
 - **Gestão de Projetos**: Planejamento, backlog, controle de tarefas e cronogramas com metodologias ágeis.  
 - **Comunicação**: Apresentação de resultados e relatórios para diversos públicos.  
