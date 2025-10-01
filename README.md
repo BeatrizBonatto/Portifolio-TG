@@ -121,7 +121,7 @@ O Sistema Gerenciador de TCC (SGTG) auxilia professores e coordenadores na gest�
 [Repositório do Projeto](https://github.com/iNineBD/DataFlow-3Sem2024)
 
 #### Descrição do Projeto
-Interface web para upload e tratamento de arquivos CSV, com separação de dados em *landing Zone*, *Bronze Zone* e *Silver Zone*, autenticação por token e histórico de ações por usuário.
+Interface web para upload e tratamento de arquivos CSV, com separação de dados em *Landing Zone*, *Bronze Zone* e *Silver Zone*, autenticação por token e histórico de ações por usuário.
 
 #### Contribuições Pessoais
 * Protótipo da tela de cadastro de usuários no Figma.  
@@ -151,11 +151,11 @@ Interface web para upload e tratamento de arquivos CSV, com separação de dados
 [Repositório do Projeto](https://github.com/iNineBD/GeoTrack-4Sem2024Main)
 
 #### Descrição do Projeto
-O projeto "GeoTrack" visa desenvolver uma plataforma para rastreamento e monitoramento de veículos em tempo real. A aplicação permite visualizar a localização dos veículos em um mapa interativo, com atualizações periódicas e histórico de trajetos.
+O projeto "GeoTrack" visa desenvolver uma plataforma para receber dados de geolocalização em tempo real, gerados continuamente por dispositivos de IoT, como wearables, tags e smartphones. A aplicação permite visualizar suas a localização dos veículos em um mapa interativo, com atualizações periódicas e histórico de trajetos.
 
 #### Contribuições Pessoais
 * **Scrum Master:** Facilitação das reuniões diárias, controle do progresso das sprints e remoção de impedimentos.
-* **Desenvolvimento de API RESTful:** Implementação de endpoints para gestão de veículos, usuários e registros de localização.
+* **Desenvolvimento de API REST:** Implementação de endpoints para gestão de veículos, usuários e registros de localização.
 * **Integração com Mapas:** Implementação de visualização de localização em tempo real utilizando APIs de mapas.
 
 #### Tecnologias Utilizadas
