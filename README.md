@@ -121,7 +121,7 @@ O Sistema Gerenciador de TCC (SGTG) auxilia professores e coordenadores na gest�
 [Repositório do Projeto](https://github.com/iNineBD/DataFlow-3Sem2024)
 
 #### Descrição do Projeto
-Interface web para upload e tratamento de arquivos CSV, com separação de dados em *Zona de Pouso*, *Zona Bronze* e *Zona Prata*, autenticação por token e histórico de ações por usuário.
+Interface web para upload e tratamento de arquivos CSV, com separação de dados em *landing Zone*, *Bronze Zone* e *Silver Zone*, autenticação por token e histórico de ações por usuário.
 
 #### Contribuições Pessoais
 * Protótipo da tela de cadastro de usuários no Figma.  
