@@ -73,9 +73,9 @@ Sou Beatriz Akemi Yamaguti Bonatto, uma profissional em constante desenvolviment
 O projeto "Avaliação 360" foi desenvolvido para otimizar e estruturar o processo de avaliação entre alunos de forma imparcial. A aplicação permitia a realização de autoavaliações e avaliações entre pares, o cadastro e gerenciamento de turmas e usuários, a criação e edição de sprints, e um sistema de controle de acesso com login e diferentes hierarquias de permissões.
 
 #### Contribuições Pessoais
-* **Scrum Master:** Facilitação da equipe, controle do *burndown*, gestão de tarefas e registro de horas.  
-* **Criação do Backlog e Fluxograma do Projeto:** Priorização de funcionalidades e mapeamento do fluxo de trabalho.  
-* **Funcionalidade de Visualização e Edição de Times:** Interface e lógica para gerenciar equipes.  
+* **Scrum Master:** Auxilio como facilitados da equipe, controle do *burndown*, gestão de tarefas e registro de horas.  
+* **Criação do Backlog e Fluxograma do Projeto:** Ajudando o PO com priorização de funcionalidades e mapeamento do fluxo de trabalho.  
+* **Funcionalidade de Visualização e Edição de Times:** Deselvolvimento no back-and e lógica para gerenciar equipes.  
 * **Funcionalidade de Feedback de Avaliações:** Módulo para visualização e gestão de feedbacks recebidos.
 
 #### Tecnologias Utilizadas
