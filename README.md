@@ -124,9 +124,9 @@ O Sistema Gerenciador de TCC (SGTG) auxilia professores e coordenadores na gest�
 Interface web para upload e tratamento de arquivos CSV, com separação de dados em *Landing Zone*, *Bronze Zone* e *Silver Zone*, autenticação por token e histórico de ações por usuário.
 
 #### Contribuições Pessoais
-* Protótipo da tela de cadastro de usuários no Figma.  
-* Desenvolvimento das telas de cadastro Master e primeiro acesso.  
-* Implementação de autenticação por token e logs detalhados.
+* **Protótipação de Telas:** Protótipo da tela de cadastro de usuários no Figma.  
+* **Cadastro e Login de Usuário:** Desenvolvimento das telas de cadastro Master e primeiro acesso.  
+* **Autenticação:** Implementação de autenticação por token e logs detalhados.
 
 #### Tecnologias Utilizadas
 <p align="left">
@@ -154,9 +154,9 @@ Interface web para upload e tratamento de arquivos CSV, com separação de dados
 O projeto "GeoTrack" visa desenvolver uma plataforma para receber dados de geolocalização em tempo real, gerados continuamente por dispositivos de IoT, como wearables, tags e smartphones. A aplicação permite visualizar suas a localização dos veículos em um mapa interativo, com atualizações periódicas e histórico de trajetos.
 
 #### Contribuições Pessoais
-* **Scrum Master:** Facilitação das reuniões diárias, controle do progresso das sprints e remoção de impedimentos.
-* **Desenvolvimento de API REST:** Implementação de endpoints para gestão de veículos, usuários e registros de localização.
-* **Integração com Mapas:** Implementação de visualização de localização em tempo real utilizando APIs de mapas.
+* **Cadastro e Login de Usuário:** Criação das telas de login e registro, com implementação de mensagens de erro e sucesso, redirecionamento após cadastro e validação de token para controle de acesso.
+* **Melhorias de Interface e Usabilidade:** Ajustes no layout e estilização das telas de autenticação, inclusão de botão de retorno, ícone de olho para exibição/ocultação de senha e aprimoramento das mensagens exibidas ao usuário.
+* **Documentação:** Atualização e manutenção do arquivo README, com informações sobre o projeto e instruções de uso.
 
 #### Tecnologias Utilizadas
 <p align="left">
@@ -183,10 +183,11 @@ O projeto "GeoTrack" visa desenvolver uma plataforma para receber dados de geolo
 O projeto "Youtan Dash" visa desenvolver uma plataforma integrada à ferramenta de gestão de projetos Taiga, com o intuito de gerar e visualizar indicadores relacionados ao andamento de projetos. A plataforma fornece um dashboard que permite a extração e análise de métricas importantes, como a quantidade de cards criados e finalizados em um período, tempo médio de execução de cards, distribuição de cards por status, entre outros.
 
 #### Contribuições Pessoais  
-* **Desenvolvimento do Dashboard:** Criação da interface visual para exibição dos indicadores.  
-* **Integração com Taiga:** Implementação da API para coleta de dados da ferramenta de gestão de projetos.  
-* **Análise de Métricas:** Definição e cálculo das métricas a serem exibidas no dashboard.  
-* **Testes e Validação:** Realização de testes para garantir a precisão dos dados apresentados.
+* **Cadastro e Login de Usuário:** Criação das telas de login e registro, com implementação de mensagens de erro e sucesso, redirecionamento após cadastro e validação de token para controle de acesso.
+* **Melhorias de Interface e Usabilidade:** Ajustes no layout e estilização das telas de autenticação, inclusão de botão de retorno, ícone de olho para exibição/ocultação de senha e aprimoramento das mensagens exibidas ao usuário.
+* **Gestão de Tempo Médio de Conclusão:** Desenvolvimento dos endpoints, serviços e repositórios responsáveis pelo cálculo do tempo médio de conclusão de tarefas, com implementação de testes unitários e documentação via Swagger.
+* **Versionamento de Banco de Dados:** Configuração e aplicação do Flyway para controle de versões do banco de dados, incluindo criação e ajuste de scripts de migração, testes de histórico e atualização das configurações no `application.yml`.
+* **Documentação:** Atualização e manutenção do arquivo README, adição de JavaDocs e comentários técnicos nos códigos, garantindo clareza e padronização do projeto.
 
 #### Tecnologias Utilizadas
 <p align="left">
