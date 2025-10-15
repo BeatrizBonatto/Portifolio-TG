@@ -124,9 +124,12 @@ O Sistema Gerenciador de TCC (SGTG) auxilia professores e coordenadores na gest�
 Interface web para upload e tratamento de arquivos CSV, com separação de dados em *Landing Zone*, *Bronze Zone* e *Silver Zone*, autenticação por token e histórico de ações por usuário.
 
 #### Contribuições Pessoais
-* **Protótipação de Telas:** Protótipo da tela de cadastro de usuários no Figma.  
-* **Cadastro e Login de Usuário:** Desenvolvimento das telas de cadastro Master e primeiro acesso.  
-* **Autenticação:** Implementação de autenticação por token e logs detalhados.
+* **Cadastro e Login de Usuário:** Criação das telas de cadastro, primeiro acesso e login, incluindo validação de campos, exibição de mensagens de erro/sucesso, visibilidade de senha e redirecionamento correto após ações.
+* **Gestão de Usuários e Logs:** Implementação de funcionalidades de listagem de usuários, histórico de usuários, níveis de acesso, permissões para visualizar logs, e criação de telas e tabelas de log com filtros e atualização dinâmica.
+* **Melhorias de Interface e Usabilidade:** Ajustes no layout e estilização das telas (CSS e HTML), inclusão de botões de voltar, ícones de usuário com opções de cadastrar e sair, fixação de headers, e alinhamento de elementos de formulário para melhor experiência do usuário.
+* **Integração Backend:** Envio e recebimento de dados do backend via POST/GET, manipulação de arquivos CSV para persistência, e controle de acesso baseado no nível do usuário.
+* **Documentação:** Atualização do README, adição de links para Wiki, organização de pastas de documentação e comentários no código, garantindo padronização e clareza no projeto.
+* **Controle de Versões e Colaboração:** Realização de merges de branches, ajustes de commits e integração de funcionalidades de diferentes sprints, garantindo consistência no desenvolvimento em equipe.
 
 #### Tecnologias Utilizadas
 <p align="left">
