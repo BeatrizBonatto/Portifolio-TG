@@ -23,9 +23,6 @@ Sou Beatriz Akemi Yamaguti Bonatto, uma profissional em constante desenvolviment
 ## Contatos
 
 <p align="left">
-  <a href="https://github.com/BeatrizBonatto" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="https://www.linkedin.com/in/beatriz-bonatto-263530156/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -34,17 +31,14 @@ Sou Beatriz Akemi Yamaguti Bonatto, uma profissional em constante desenvolviment
   </a>
 </p>
 
----
-
 <span id="principais-conhecimentos">
 
 ## Principais Conhecimentos
 
 - **Análise de Dados**: Experiência em interpretação de dados para suporte à tomada de decisões, utilizando ferramentas como Power BI e Microsoft Excel.  
-- **Power BI**: Criação de dashboards interativos e relatórios visuais com foco em KPIs.  
-- **Microsoft Excel**: Domínio intermediário de fórmulas, tabelas dinâmicas e visuais.  
-- **MySQL**: Modelagem de dados, queries complexas e manutenção de banco de dados relacional.  
-- **Gestão de Projetos**: Planejamento, backlog, controle de tarefas e cronogramas com metodologias ágeis.  
+- **Power BI**: Criação de dashboards interativos e relatórios visuais com foco em KPIs.
+- **Modelagem de dados**: Modelagem de dados, queries complexas e manutenção de banco de dados relacional ultilizando MySQL, Oracle e Postgres.  
+- **Metodologia Scrum**: Planejamento, backlog, controle de tarefas e cronogramas com metodologias ágeis.  
 - **Comunicação**: Apresentação de resultados e relatórios para diversos públicos.  
 
 ---
@@ -78,7 +72,7 @@ O projeto "Avaliação 360" foi desenvolvido para otimizar e estruturar o proces
 * **Funcionalidade de Visualização e Edição de Times:** Deselvolvimento no back-and e lógica para gerenciar equipes.  
 * **Funcionalidade de Feedback de Avaliações:** Módulo para visualização e gestão de feedbacks recebidos.
 
-#### Tecnologias Utilizadas
+#### Hards Skill
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -88,6 +82,10 @@ O projeto "Avaliação 360" foi desenvolvido para otimizar e estruturar o proces
   <img src="https://img.shields.io/badge/Monday-FC5C29?style=for-the-badge&logo=monday&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
 </p>
+
+#### Soft Skill
+
+* 
 
 ---
 
@@ -103,7 +101,7 @@ O Sistema Gerenciador de TCC (SGTG) auxilia professores e coordenadores na gest�
 * **Product Owner (PO):** Gerenciamento do backlog, comunicação com o cliente e alinhamento das funcionalidades.  
 * **Desenvolvimento de Filtros e Relatórios Personalizados:** Facilitação da busca e criação de relatórios com *insights* sobre TCCs.
 
-#### Tecnologias Utilizadas
+#### Hards Skill
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
@@ -112,6 +110,10 @@ O Sistema Gerenciador de TCC (SGTG) auxilia professores e coordenadores na gest�
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
 </p>
+
+#### Soft Skill
+
+* 
 
 ---
 
@@ -131,20 +133,21 @@ Interface web para upload e tratamento de arquivos CSV, com separação de dados
 * **Documentação:** Atualização do README, adição de links para Wiki, organização de pastas de documentação e comentários no código, garantindo padronização e clareza no projeto.
 * **Controle de Versões e Colaboração:** Realização de merges de branches, ajustes de commits e integração de funcionalidades de diferentes sprints, garantindo consistência no desenvolvimento em equipe.
 
-#### Tecnologias Utilizadas
+#### Hards Skill
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
 </p>
+
+#### Soft Skill
+
+* 
 
 ---
 
@@ -154,26 +157,28 @@ Interface web para upload e tratamento de arquivos CSV, com separação de dados
 [Repositório do Projeto](https://github.com/iNineBD/GeoTrack-4Sem2024Main)
 
 #### Descrição do Projeto
-O projeto "GeoTrack" visa desenvolver uma plataforma para receber dados de geolocalização em tempo real, gerados continuamente por dispositivos de IoT, como wearables, tags e smartphones. A aplicação permite visualizar suas a localização dos veículos em um mapa interativo, com atualizações periódicas e histórico de trajetos.
+O projeto "GeoTrack" visa desenvolver uma plataforma para receber dados de geolocalização em tempo real, gerados continuamente por dispositivos de IoT, como wearables, tags e smartphones. A aplicação permite visualizar a localização dos veículos em um mapa interativo, com atualizações periódicas e histórico de trajetos.
 
 #### Contribuições Pessoais
 * **Cadastro e Login de Usuário:** Criação das telas de login e registro, com implementação de mensagens de erro e sucesso, redirecionamento após cadastro e validação de token para controle de acesso.
 * **Melhorias de Interface e Usabilidade:** Ajustes no layout e estilização das telas de autenticação, inclusão de botão de retorno, ícone de olho para exibição/ocultação de senha e aprimoramento das mensagens exibidas ao usuário.
 * **Documentação:** Atualização e manutenção do arquivo README, com informações sobre o projeto e instruções de uso.
 
-#### Tecnologias Utilizadas
+#### Hards Skill
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
 </p>
+
+#### Soft Skill
+
+* 
 
 ---
 
@@ -192,17 +197,19 @@ O projeto "Youtan Dash" visa desenvolver uma plataforma integrada à ferramenta 
 * **Versionamento de Banco de Dados:** Configuração e aplicação do Flyway para controle de versões do banco de dados, incluindo criação e ajuste de scripts de migração, testes de histórico e atualização das configurações no `application.yml`.
 * **Documentação:** Atualização e manutenção do arquivo README, adição de JavaDocs e comentários técnicos nos códigos, garantindo clareza e padronização do projeto.
 
-#### Tecnologias Utilizadas
+#### Hards Skill
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Chart.js-F6A8B2?style=for-the-badge&logo=chart.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
+#### Soft Skill
+
+* 
 
 ---
 
@@ -214,16 +221,15 @@ O projeto "Youtan Dash" visa desenvolver uma plataforma integrada à ferramenta 
 #### Descrição do Projeto  
 O projeto "Pardal" tem como objetivo centralizar e otimizar um sistema de gerenciamento de tickets de suporte, garantindo maior organização, tempos de resposta mais rápidos e visibilidade em todos os níveis operacionais. Atualmente, o cliente utiliza ferramentas distintas para cada área, o que dificulta o acompanhamento e a gestão eficiente dos tickets.
 
-#### Tecnologias Utilizadas
+#### Hards Skill
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
+
+#### Soft Skill
+
+* 
 
 ---
 
