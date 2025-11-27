@@ -14,7 +14,9 @@
 
 ## Introdução
 
-Sou Beatriz Akemi Yamaguti Bonatto, uma profissional em constante desenvolvimento, com formação técnica em Mecânica pelo IFSP, graduação em Gestão da Produção Industrial pela FATEC e atualmente cursando Banco de Dados na mesma instituição. Minha trajetória profissional reflete uma evolução diversificada, iniciando como Estagiária em Gestão de Produção na Altamar Sistemas Aquáticos e em seguida como Técnica Mecânica na Ambev. Atualmente, sou Assistente de Dados na Click Alert, onde iniciei como Estagiária em Análise de Dados. Essa experiência diversificada consolidou minhas habilidades técnicas em análise de dados e gestão de projetos, complementadas por uma comunicação eficaz e uma abordagem estratégica na resolução de problemas.
+Sou Beatriz Akemi Yamaguti Bonatto, estudante do 6° semestre de Banco de Dados na FATEC. Antes disso, passei pelo técnico em Mecânica no IFSP e pela graduação em Gestão da Produção Industrial, o que acabou criando uma base bem sólida em processos, organização e análise.
+
+Ao longo da graduação em BD, participei de todos os Projetos Integradores, passando por papéis como desenvolvedora, PO e Master. Isso me deu experiência prática em modelagem, SQL, ETL, documentação, usabilidade, controle de tarefas e organização de entregas. Hoje, meu foco é consolidar tudo o que aprendi — tanto técnico quanto de gestão — aplicando boas práticas, metodologias ágeis e uma visão mais analítica para resolver problemas e estruturar projetos.
 
 ---
 
@@ -35,11 +37,11 @@ Sou Beatriz Akemi Yamaguti Bonatto, uma profissional em constante desenvolviment
 
 ## Principais Conhecimentos
 
-- **Análise de Dados**: Experiência em interpretação de dados para suporte à tomada de decisões, utilizando ferramentas como Power BI e Microsoft Excel.  
-- **Power BI**: Criação de dashboards interativos e relatórios visuais com foco em KPIs.
-- **Modelagem de dados**: Modelagem de dados, queries complexas e manutenção de banco de dados relacional ultilizando MySQL, Oracle e Postgres.  
-- **Metodologia Scrum**: Planejamento, backlog, controle de tarefas e cronogramas com metodologias ágeis.  
-- **Comunicação**: Apresentação de resultados e relatórios para diversos públicos.  
+* **Modelagem e SQL**: Criação de modelos (conceitual, lógico e físico) e desenvolvimento de queries mais complexas em PostgreSQL, Oracle e MySQL.
+* **BI e Análise de Dados**: Construção de dashboards no Power BI, análise de indicadores e organização dos dados para tomada de decisão.
+* **ETL e DW**: Experiência com processos de carga, tratamento de dados e criação de Data Warehouse nos projetos integradores.
+* **Scrum e Organização do Trabalho**: Planejamento de sprint, acompanhamento do time, organização de tarefas e apoio nas entregas — incluindo meu papel como Master no primeiro e último semestre.
+* **Documentação e Comunicação**: Produção de documentações claras (modelos, requisitos, atas, instruções), alinhamentos com o time e apresentações para cliente.
 
 ---
 
@@ -85,7 +87,10 @@ O projeto "Avaliação 360" foi desenvolvido para otimizar e estruturar o proces
 
 #### Soft Skill
 
-* 
+* Adaptação ao primeiro contato com metodologias ágeis.
+* Organização do time e facilitação de reuniões (como Scrum Master).
+* Comunicação interna para alinhar tarefas e priorizar entregas.
+* Construção de documentação inicial e fluxogramas.
 
 ---
 
@@ -104,7 +109,6 @@ O Sistema Gerenciador de TCC (SGTG) auxilia professores e coordenadores na gest�
 #### Hards Skill
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/Scene_Builder-000000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -113,7 +117,10 @@ O Sistema Gerenciador de TCC (SGTG) auxilia professores e coordenadores na gest�
 
 #### Soft Skill
 
-* 
+* Liderança e tomada de decisão (como PO).
+* Comunicação com “cliente” para entender requisitos.
+* Priorização do backlog e negociação de escopo.
+* Clareza na documentação para orientar o time.
 
 ---
 
@@ -147,7 +154,11 @@ Interface web para upload e tratamento de arquivos CSV, com separação de dados
 
 #### Soft Skill
 
-* 
+* Colaboração técnica com várias frentes (front, back, documentação).
+* Atenção à experiência do usuário (usabilidade, fluxo, mensagens de erro).
+* Trabalho com histórico de ações e segurança básica.
+* Controle de versão com múltiplas branches e merges.
+* Autonomia para desenvolver telas completas e integrações.
 
 ---
 
@@ -166,7 +177,6 @@ O projeto "GeoTrack" visa desenvolver uma plataforma para receber dados de geolo
 
 #### Hards Skill
 <p align="left">
-  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -178,7 +188,10 @@ O projeto "GeoTrack" visa desenvolver uma plataforma para receber dados de geolo
 
 #### Soft Skill
 
-* 
+* Foco em clareza e simplicidade da interface.
+* Consistência visual e padronização de componentes.
+* Testes manuais e validação de fluxo de usuário.
+* Documentação contínua e manutenção de repositório.
 
 ---
 
@@ -199,6 +212,8 @@ O projeto "Youtan Dash" visa desenvolver uma plataforma integrada à ferramenta 
 
 #### Hards Skill
 <p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -209,7 +224,11 @@ O projeto "Youtan Dash" visa desenvolver uma plataforma integrada à ferramenta 
 
 #### Soft Skill
 
-* 
+* Análise de requisitos técnicos mais complexos.
+* Raciocínio lógico para implementar cálculos e métricas.
+* Controle de versão de banco de dados com disciplina (Flyway).
+* Escrita técnica mais madura (JavaDoc, Swagger).
+* Organização para dividir tarefas em back-end e front-end.
 
 ---
 
@@ -218,21 +237,40 @@ O projeto "Youtan Dash" visa desenvolver uma plataforma integrada à ferramenta 
 ### 6° Semestre — Pardal  
 [Repositório do Projeto](https://github.com/manolito-fatec/pardal-2025)
 
-#### Descrição do Projeto  
-O projeto "Pardal" tem como objetivo centralizar e otimizar um sistema de gerenciamento de tickets de suporte, garantindo maior organização, tempos de resposta mais rápidos e visibilidade em todos os níveis operacionais. Atualmente, o cliente utiliza ferramentas distintas para cada área, o que dificulta o acompanhamento e a gestão eficiente dos tickets.
+#### Descrição do Projeto
 
-#### Hards Skill
+O projeto “Pardal” tem como objetivo desenvolver uma plataforma completa para centralização e acompanhamento de tickets de suporte. A solução integra autenticação, controle de permissões, categorização de chamados, gestão de SLA, histórico de alterações e visualização estruturada dos tickets. O foco acadêmico foi aplicar práticas avançadas de modelagem, organização de artefatos e gestão de entregas, consolidando todos os conhecimentos adquiridos ao longo da graduação.
+
+#### Contribuições Pessoais
+
+* **Acompanhamento e Organização do Time:** Distribuição de tarefas, monitoramento do andamento das atividades e apoio nas entregas.
+* **Padronização de Artefatos:** Criação de modelos, templates, fluxos e checklists para unificar processos e facilitar a comunicação da equipe.
+* **Interpretação de Requisitos:** Suporte ao time na análise das demandas, refinamento de funcionalidades e detalhamento do fluxo de trabalho.
+* **Garantia de Qualidade:** Verificação de consistência das entregas, conferência de padrões e revisão de materiais para apresentação.
+* **Documentação Completa:** Construção de relatórios, atas, histórico de decisões e materiais de apresentação final do projeto.
+* **Facilitação de Reuniões:** Mediação de encontros internos, alinhamentos e acompanhamento de sprint.
+
+#### Hard Skills
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Taiga-48BEA9?style=for-the-badge&logo=taiga&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
 </p>
 
 #### Soft Skill
 
-* 
+* Organização e priorização de atividades.
+* Comunicação clara com o time.
+* Resolução de problemas e tomada de decisão.
+* Trabalho em equipe e colaboração.
+* Gestão de tempo e entregas sob prazo.
+* Liderança prática em ambiente acadêmico.
 
 ---
 
 ## Observações Finais
 
-Este portfólio está em constante atualização com novos aprendizados, tecnologias e projetos desenvolvidos ao longo da minha trajetória acadêmica e profissional.
+Este portfólio reúne minha trajetória ao longo da graduação e continua sendo atualizado conforme avanço nos estudos e projetos.
