@@ -233,7 +233,7 @@ Interface web para upload e tratamento de arquivos CSV, com separação de dados
     <td align="center">
       <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
       <br>
-      <sub><b>👻👻👻</b></sub>
+      <sub><b>👻👻</b></sub>
     </td>
   </tr>
 </table>
