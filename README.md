@@ -75,15 +75,45 @@ O projeto "Avaliação 360" foi desenvolvido para otimizar e estruturar o proces
 * **Funcionalidade de Feedback de Avaliações:** Módulo para visualização e gestão de feedbacks recebidos.
 
 #### Hards Skill
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monday-FC5C29?style=for-the-badge&logo=monday&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <br>
+      <sub><b>👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <br>
+      <sub><b>👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+      <br>
+      <sub><b>👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Monday-FC5C29?style=for-the-badge&logo=monday&logoColor=white" />
+      <br>
+      <sub><b>👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+  </tr>
+</table>
 
 #### Soft Skill
 
@@ -107,13 +137,35 @@ O Sistema Gerenciador de TCC (SGTG) auxilia professores e coordenadores na gest�
 * **Desenvolvimento de Filtros e Relatórios Personalizados:** Facilitação da busca e criação de relatórios com *insights* sobre TCCs.
 
 #### Hards Skill
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scene_Builder-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Scene Builder-000000?style=for-the-badge&logo=java&logoColor=white" />
+      <br>
+      <sub><b>👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+  </tr>
+</table>
 
 #### Soft Skill
 
@@ -141,16 +193,50 @@ Interface web para upload e tratamento de arquivos CSV, com separação de dados
 * **Controle de Versões e Colaboração:** Realização de merges de branches, ajustes de commits e integração de funcionalidades de diferentes sprints, garantindo consistência no desenvolvimento em equipe.
 
 #### Hards Skill
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <br>
+      <sub><b>👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+      <br>
+      <sub><b>👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <br>
+      <sub><b>👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <br>
+      <sub><b>👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+  </tr>
+</table>
 
 #### Soft Skill
 
@@ -176,15 +262,35 @@ O projeto "GeoTrack" visa desenvolver uma plataforma para receber dados de geolo
 * **Documentação:** Atualização e manutenção do arquivo README, com informações sobre o projeto e instruções de uso.
 
 #### Hards Skill
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+  </tr>
+</table>
 
 #### Soft Skill
 
@@ -211,16 +317,50 @@ O projeto "Youtan Dash" visa desenvolver uma plataforma integrada à ferramenta 
 * **Documentação:** Atualização e manutenção do arquivo README, adição de JavaDocs e comentários técnicos nos códigos, garantindo clareza e padronização do projeto.
 
 #### Hards Skill
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <br>
+      <sub><b>👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <br>
+      <sub><b>👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+  </tr>
+</table>
 
 #### Soft Skill
 
@@ -251,14 +391,35 @@ O projeto “Pardal” tem como objetivo desenvolver uma plataforma completa par
 * **Facilitação de Reuniões:** Mediação de encontros internos, alinhamentos e acompanhamento de sprint.
 
 #### Hard Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Taiga-48BEA9?style=for-the-badge&logo=taiga&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Taiga-48BEA9?style=for-the-badge&logo=taiga&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Google Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+      <br>
+      <sub><b>👻👻👻</b></sub>
+    </td>
+  </tr>
+</table>
 
 #### Soft Skill
 
@@ -268,9 +429,3 @@ O projeto “Pardal” tem como objetivo desenvolver uma plataforma completa par
 * Trabalho em equipe e colaboração.
 * Gestão de tempo e entregas sob prazo.
 * Liderança prática em ambiente acadêmico.
-
----
-
-## Observações Finais
-
-Este portfólio reúne minha trajetória ao longo da graduação e continua sendo atualizado conforme avanço nos estudos e projetos.
