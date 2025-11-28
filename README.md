@@ -340,16 +340,6 @@ O projeto "Youtan Dash" visa desenvolver uma plataforma integrada à ferramenta 
       <sub><b>👻👻</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <br>
-      <sub><b>👻</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <br>
-      <sub><b>👻</b></sub>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <br>
       <sub><b>👻👻👻</b></sub>
