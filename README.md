@@ -100,7 +100,7 @@ O projeto "Avaliação 360" foi desenvolvido para otimizar e estruturar o proces
     <td align="center">
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
       <br>
-      <sub><b>👻</b></sub>
+      <sub><b>👻👻</b></sub>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Monday-FC5C29?style=for-the-badge&logo=monday&logoColor=white" />
