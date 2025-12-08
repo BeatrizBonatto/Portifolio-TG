@@ -4,8 +4,7 @@
   <a href="#introdução">Introdução</a> | 
   <a href="#contatos">Contatos</a> | 
   <a href="#principais-conhecimentos">Conhecimentos</a> | 
-  <a href="#projetos">Projetos</a> | 
-  <a href="#observações-finais">Observações</a>
+  <a href="#projetos">Projetos</a> 
 </p>
 
 ---
