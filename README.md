@@ -24,7 +24,7 @@ Ao longo da graduação em BD, participei de todos os Projetos Integradores, pas
 ## Contatos
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/beatriz-bonatto-263530156/" target="_blank">
+  <a href="https://www.linkedin.com/in/beatriz-ay-bonatto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:biakemibonatto@gmail.com" target="_blank">
