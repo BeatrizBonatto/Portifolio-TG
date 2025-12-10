@@ -377,7 +377,7 @@ O projeto “Pardal” tem como objetivo desenvolver uma plataforma completa par
 
 #### Contribuições Pessoais
 
-* **Acompanhamento e Organização do Time:** Distribuição de tarefas, monitoramento do andamento das atividades e apoio nas entregas.
+* **Scrum Master:** Distribuição de tarefas, monitoramento do andamento das atividades e apoio nas entregas.
 * **Padronização de Artefatos:** Criação de modelos, templates, fluxos e checklists para unificar processos e facilitar a comunicação da equipe.
 * **Interpretação de Requisitos:** Suporte ao time na análise das demandas, refinamento de funcionalidades e detalhamento do fluxo de trabalho.
 * **Garantia de Qualidade:** Verificação de consistência das entregas, conferência de padrões e revisão de materiais para apresentação.
